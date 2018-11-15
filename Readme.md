@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ViewController1.cs](./CS/WinSolution.Module.Win/ViewController1.cs) (VB: [ViewController1.vb](./VB/WinSolution.Module.Win/ViewController1.vb))
+<!-- default file list end -->
 # OBSOLETE - How to set the size of the popup window shown via the PopupWindowShowAction in WinForms
 
 
